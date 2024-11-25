@@ -1,0 +1,15 @@
+fieldset{
+	background-color: lightblue;
+}
+li{
+	background: #00b6c4;
+	padding: 15px;
+	color: #fff;
+	margin: 30px 0;
+	font-size: 20px;
+	border-radius: 0 50px 50px 0;
+	width: 400px;
+}
+h1{
+	color: #00b6c4;
+}
